@@ -52,6 +52,6 @@ xsltproc -o index.html --stringparam i18nOriginalImage Original --stringparam i1
 ```
 You will have to make some adjustments of the colors and Strings!
 
-If you have any Questions on how to use this or how to extend this theme feel free to file an issue in the issue-tracker (https://github.com/enaut/SimpleRounded-HTMLexport/issues) or contact me via email.
+If you have any Questions on how to use this or how to extend this theme feel free to file an issue in the [issue-tracker](https://github.com/enaut/SimpleRounded-HTMLexport/issues) or contact me via email.
 
 Have fun!
