@@ -5,11 +5,11 @@ This is a kipi-html-export theme that uses flat shapes with rounded corners.
 
 Preview
 -------
-There is a sample gallery at: http://enaut.github.com/SimpleRounded-HTMLexport/
+There is a sample gallery at: http://enaut.github.com/Kipi-SimpleRounded-HTMLexport/
 
 A Screenshot of a resulting gallery:
 
-![Preview Gallery](https://raw.github.com/enaut/SimpleRounded-HTMLexport/master/SimpleRounded/previewBig.png)
+![Preview Gallery](https://raw.github.com/enaut/Kipi-SimpleRounded-HTMLexport/master/SimpleRounded/previewBig.png)
 
 Install
 -------
