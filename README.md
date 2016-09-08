@@ -3,6 +3,8 @@ SimpleRounded-HTMLexport
 
 This is a kipi-html-export theme that uses flat shapes with rounded corners.
 
+***The kipi-plugin html-export is currently not ported to Qt5 (so this theme will not work with the recent Digikam)***
+
 Preview
 -------
 There is a sample gallery at: http://enaut.github.com/Kipi-SimpleRounded-HTMLexport/
