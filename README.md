@@ -1,6 +1,8 @@
 SimpleRounded-HTMLexport
 ========================
 
+[![Join the chat at https://gitter.im/Kipi-SimpleRounded-HTMLexport/Lobby](https://badges.gitter.im/Kipi-SimpleRounded-HTMLexport/Lobby.svg)](https://gitter.im/Kipi-SimpleRounded-HTMLexport/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a kipi-html-export theme that uses flat shapes with rounded corners.
 
 ***The kipi-plugin html-export is currently not ported to Qt5 (so this theme will not work with the recent Digikam)***
