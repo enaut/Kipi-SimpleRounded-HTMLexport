@@ -3,7 +3,7 @@ SimpleRounded-HTMLexport
 
 This is a kipi-html-export theme that uses flat shapes with rounded corners.
 
-***The kipi-plugin html-export has not been updated for some time and is therefore missing in some packages. The most recent versions should include the html-export plugin though.***
+***The kipi-plugin html-export was missing some updates. It is therefore missing in some packages. The most recent versions should include the html-export plugin though.***
 
 Preview
 -------
